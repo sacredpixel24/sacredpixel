@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
@@ -68,7 +68,7 @@ export const NavBar = () => {
                     activeLink === "home" ? "active navbar-link" : "navbar-link"
                   }
                   onClick={() => onUpdateActiveLink("home")}
-                  style={{ color: "black" }}
+                  style={{ color: "black", fontWeight: "bold" }} // Add fontWeight: "bold"
                 >
                   Home
                 </Nav.Link>
@@ -81,7 +81,7 @@ export const NavBar = () => {
                       : "navbar-link"
                   }
                   onClick={() => onUpdateActiveLink("services")}
-                  style={{ color: "black" }}
+                  style={{ color: "black", fontWeight: "bold" }} // Add fontWeight: "bold"
                 >
                   Services
                 </Nav.Link>
@@ -93,7 +93,7 @@ export const NavBar = () => {
                       : "navbar-link"
                   }
                   onClick={() => onUpdateActiveLink("about")}
-                  style={{ color: "black" }}
+                  style={{ color: "black", fontWeight: "bold" }} // Add fontWeight: "bold"
                 >
                   About
                 </Nav.Link>

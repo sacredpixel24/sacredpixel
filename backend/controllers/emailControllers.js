@@ -23,12 +23,6 @@ Thank you for reaching out to Sacred Pixel, your trusted partner for innovative 
 
 At Sacred Pixel, we specialize in providing bespoke marketing solutions tailored to meet the unique requirements of businesses like yours. Whether it's digital marketing, SEO optimization, graphic designing, video editing, or email marketing, our team of experts is dedicated to delivering top-notch services that drive results and enhance your digital presence.
 
-Your inquiry is important to us, and we assure you that our team is already reviewing your message. We will get back to you shortly with a personalized response and further details on how we can assist you in achieving your marketing goals.
-
-In the meantime, feel free to explore our website [insert website link] to learn more about our services and past projects. If you have any urgent queries or require immediate assistance, don't hesitate to contact us directly at [insert contact number] or via email at [insert email address].
-
-Thank you once again for considering Sacred Pixel as your marketing service partner. We're excited about the opportunity to collaborate with you and help you succeed in today's digital landscape.
- 
 Best regards,
 
 Sacred Pixel`;
