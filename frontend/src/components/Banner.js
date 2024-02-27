@@ -66,8 +66,7 @@ export const Banner = () => {
                   <p style={{ color: "black" }}>
                     Welcome to Sacred Pixel, where innovation meets excellence!
                     Your digital solution manager. We specialize in digital
-                    marketing and SEO, custom software development and new web
-                    design. Our team of experts is dedicated to understanding
+                    marketing, SEO and webdesigning. Our team of experts is dedicated to understanding
                     your business needs and providing solutions that deliver
                     results; Work with us to make your digital vision a reality.
                   </p>
